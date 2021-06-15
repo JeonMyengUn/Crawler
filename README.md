@@ -1,4 +1,7 @@
-# Daum Web Crawler in Python
+# Daum Website Real-time Website Ranking search query ranking in Python
+
+### Reference link
+1. http://www.daum.net/ 
 
 ### File
 | 파일명 | code(.py) | 설명 |
@@ -8,4 +11,6 @@
 ### Module Informations
 | Module | Version |
 |------|---   |
-|Beautiful Soup | 4.0|
+|Beautiful Soup | 4.9.3|
+|requests | 2.25.1|
+|datetime | 4.3|
